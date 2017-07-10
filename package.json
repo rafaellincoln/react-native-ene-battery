@@ -1,10 +1,12 @@
 {
 	"name": "react-native-ene-battery",
 	"version": "0.0.1",
-	"private": true,
+	"private": false,
+	"main": "index.js",
 	"scripts": {
 		"test": "jest"
 	},
+	"license": "MIT",
 	"author": "Rafael Lincoln <rafaellincolnpereira@gmail.com>",
 	"repository": {
     "type": "git",
